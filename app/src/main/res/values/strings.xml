@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Continuity</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="enter_your_message">Enter Your Message</string>
+</resources>

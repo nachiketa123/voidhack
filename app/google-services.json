@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "284046576674",
+    "firebase_url": "https://androidcontinuity.firebaseio.com",
+    "project_id": "androidcontinuity",
+    "storage_bucket": "androidcontinuity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284046576674:android:a77f3f224e525213",
+        "android_client_info": {
+          "package_name": "com.example.androidcontinuity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284046576674-ba4kbtce4vaul2pi5qq0q2n6hmj9cslo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidcontinuity",
+            "certificate_hash": "96dd7860cbbcf3329ef3e1ed214b5d959d1d5115"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRLKWJSpcsg543M-qPCQ7JC95H8rwimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284046576674-udqtfp6quv1813s6pio5a578hj8o911r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
